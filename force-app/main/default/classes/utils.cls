@@ -1,5 +1,5 @@
 public with sharing class utils {
-    public utils() {
-
-    }
+   public static void mymethod(){
+    system.debug('Hello');
+   }
 }
